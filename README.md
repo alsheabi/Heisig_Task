@@ -2,8 +2,8 @@
 
 <a href="https://colab.research.google.com/drive/14C8HkqlI0jSjUu_Z3vv1dl69Pexz6ThX?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-\
+</a> ;
+
 Write a python script that downloads all Technical Drawings from https://www.heisig.com/aktuelle-auftraege/
 
 
